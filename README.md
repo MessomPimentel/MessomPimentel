@@ -1,4 +1,4 @@
-- 👋 Olá! sou @MessomPimentel
+- 👋 Olá!Eu sou @MessomPimentel
 - 👀 Tenho interesse em javascript e java ...
 - 🌱 Estou estudando javascript
 <div>
