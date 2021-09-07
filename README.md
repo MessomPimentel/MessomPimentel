@@ -16,8 +16,6 @@
      <img align="center" alt="Messom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
      <img align="center" alt="Messom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
       
-      
-     
    </div style="display: inline_block"><br>
 <div>
    
