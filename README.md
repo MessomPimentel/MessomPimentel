@@ -1,5 +1,5 @@
 - 👋 Olá!Eu sou @MessomPimentel
-- 👀 Testsm e qualidade de software
+- 👀 Testes e qualidade de software
 
 <div>
   <a href="https://github.com/messompimentel">
